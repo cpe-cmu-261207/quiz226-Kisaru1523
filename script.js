@@ -6,8 +6,14 @@ const color = document.querySelector('#color')
 
 // define more constants and variables here
 
-btn_toggle.onclick = () => {
-  // your code here
+btn_toggle.onclick = (toggle) => {
 }
+author.onclick = () =>{
 
+}
+color.onclick = (search) => {
+  if(Number>=length){
+  <p><mark>length</mark></p>
+  }
+}
 // more codes for Search and Reset buttons here
